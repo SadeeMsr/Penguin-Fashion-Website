@@ -1,0 +1,43 @@
+.anchors a {
+     text-decoration: none;
+     color: grey;
+     font-size: 16px;
+
+}
+.anchors{
+    padding-top: 40px;
+}
+
+.inside-bar{
+   width: auto;
+   height: 150px;
+  }
+.row_height{
+    height:500px;
+    margin: 0px 1.5px;
+    }
+.lbutton{
+    text-decoration:none;
+    background-image: linear-gradient(rgba(164, 188, 70, 1),rgba(133, 160, 25, 1));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 100px;
+}
+#highlighter{
+    color: goldenrod;
+}
+.first_col{
+    padding-top: 100px;
+}
+h1{
+    color:rgba(54, 57, 88, 1);
+}
+.box{
+    background-color:  #FFFBF0;
+}
+.footer-box{
+    background-color: white;
+    border:none;
+}
+
